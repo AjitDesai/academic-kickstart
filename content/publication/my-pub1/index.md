@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Analysis of a Nonlinear Aeroelastic System with Parametric Uncertainties Using Polynomial Chaos Expansion"
-authors: Ajit Desai and Sunetra Sarkar
+authors: ["admin", "Sunetra Sarkar"]
 date: 2020-01-20T12:58:21-05:00
 doi: "https://doi.org/10.1155/2010/379472"
 

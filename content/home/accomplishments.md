@@ -20,12 +20,12 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Deep Learning Specialization"
+  organization_url = "https://www.coursera.org/specializations/deep-learning"
+  title = "Deep Learning Specialization - Under progress"
   url = ""
-  certificate_url = "https://www.coursera.org/specializations/deep-learning"
+  certificate_url = ""
   date_start = "2020-01-15"
-  date_end = "Current"
+  date_end = ""
   description = ""
 
 [[item]]
