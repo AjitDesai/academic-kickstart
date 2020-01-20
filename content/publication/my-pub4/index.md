@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Estimating Policy Functions in Payments Systems using Deep Reinforcement Learning"
-authors: ["admin", "Han Du", "Rodney Garratt", "Francisco Rivadeneyra" and "Pablo Samuel Castro"]
+authors: ["admin", "Han Du", "Rodney Garratt", "Francisco Rivadeneyra", "Pablo Samuel Castro"]
 date: 2020-01-20T14:11:55-05:00
 doi: ""
 
@@ -36,10 +36,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://6659afe2-a-62cb3a1a-s-sites.googlegroups.com/site/rivadeneyr/paper_neurips2019.pdf?attachauth=ANoY7coxjkyIzt1qdmGSMkbsR6XhCBI0OugGlLSPye-EhwKYSbHGASti6EmohihgiqCwB6RB1w8DqaCP5Oc6dDz8gq84fjtoodkgfo9FdcvVIfAjdyRi4eiY1oMMGt20CBWIytgfo58izixWV-7BRgUXvWPCuxHRK-sJ0Ou_gTx1C25k7ntVd5SlH2vmPxaj6rkJDjhdAp1c_WytjV_nk29y6dYxPoaWOA%3D%3D&attredirects=0
 url_code:
 url_dataset:
-url_poster:
+url_poster: 36x48_Neurips2019.pdf
 url_project:
 url_slides:
 url_source:
