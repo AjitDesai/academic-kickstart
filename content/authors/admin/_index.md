@@ -72,4 +72,4 @@ user_groups:
 # - Visitors
 ---
 
-Ajit Desai is a data scientist at research division in the Bank of Canada. His research interests include application of AI and ML in economics and finance. He is currently working on deep reinforcement learing for payments systems, supervised ML for time series foreacasting and unsupervised ML for anomaly detection in payments transactions data.
+Ajit Desai is a data scientist at research division in the Bank of Canada. His current research interests include application of AI and ML in economics and finance. He is currently working on deep reinforcement learning for payments system, supervised ML for time series forecasting and unsupervised ML for anomaly detection in large-value transactions data.
