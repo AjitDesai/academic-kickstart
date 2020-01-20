@@ -26,6 +26,7 @@ interests:
 - High-Performance Computing
 - DL for Anomaly Detection
 - ML for Time Series
+- Uncertainty Quantification
 
 education:
   courses:
