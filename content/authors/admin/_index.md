@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applications AI and ML to Economics and Finance.
+bio: My research interests include applications AI and ML to economics and finance.
 
 interests:
 - Artificial Intelligence
 - Deep Reinforcement Learning
-- High-Performance Computing for DL
+- High-Performance Computing
 - DL for Anomaly Detection
 - ML for Time Series
 
