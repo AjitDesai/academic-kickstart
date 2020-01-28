@@ -14,8 +14,8 @@ role: Data Scientist, Research
 
 # Organizations/Affiliations
 organizations:
-- name: Carleton University
-  url: ""
+- name: Bank of Canada
+  url: "https://www.bankofcanada.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include applications AI and ML to economics and finance.
@@ -73,4 +73,6 @@ user_groups:
 # - Visitors
 ---
 
-Ajit Desai is a data scientist at research division in the Bank of Canada. His current research interests include application of AI and ML in economics and finance. He is currently working on deep reinforcement learning for payments system, supervised ML for time series forecasting and unsupervised ML for anomaly detection in large-value transactions data.
+I am currently working as a data scientist at research division in the Bank of Canada. My primary research interests include application of AI and ML in economics and finance. My current research projects are (1) deep reinforcement learning for payments system, (2) supervised ML for time series forecasting and (3) unsupervised ML for anomaly detection in large-value transactions data.
+
+In the past, my research was focused on developing scalable algorithms for large-scale modeling, simulation and uncertainty quantification using high-performance computing for scientific and engineering applications.
