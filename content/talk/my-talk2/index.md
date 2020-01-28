@@ -1,29 +1,29 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2: Estimating Policy Functions in Payments Systems using Deep Reinforcement Learning"
-event:
-event_url:
-location:
+title: "Estimating Policy Functions in Payments Systems using Deep Reinforcement Learning"
+event: NeurIPS 2019 - Robust AI for Finance
+event_url: https://neurips.cc
+location: Vancouver
 address:
   street:
   city:
   region:
   postcode:
-  country:
-summary:
+  country: Canada
+summary: This paper utilizes deep reinforcement learning to approximate the policy rules of banks participating in a high-value payments system. In a simplified two-agent setting, the agents learn the optimal intraday payments policy and optimal initial liquidity choice policy. Our results show the applicability of DRL to estimate best-response functions in real-world strategic games.
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-01-28T15:14:41-05:00
-date_end: 2020-01-28T15:14:41-05:00
+date: 2019-12-08T15:14:41-05:00
+date_end: 2019-12-14T15:14:41-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-01-28T15:14:41-05:00
+publishDate: 2019-12-14T15:14:41-05:00
 
-authors: []
+authors: ["admin", "Han Du", "Rodney Garratt", "Francisco Rivadeneyra", "Pablo Samuel Castro"]
 tags: []
 
 # Is this a featured talk? (true/false)
