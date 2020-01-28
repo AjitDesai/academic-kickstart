@@ -4,7 +4,7 @@
 title: "Estimating Policy Functions in Payments Systems using Deep Reinforcement Learning"
 event: NeurIPS 2019 - Robust AI in Finance
 event_url: https://neurips.cc
-location: Vancouver
+location: Vancouver, Canada
 address:
   street:
   city:
@@ -47,7 +47,6 @@ image:
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: 36x48_Neurips2019
-
 url_code:
 url_pdf:
 url_video:
